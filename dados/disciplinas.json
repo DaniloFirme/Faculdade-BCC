@@ -1,0 +1,326 @@
+{
+  "aluno": "Danilo Firme",
+  "curso": "Ciência da Computação",
+  "universidade": "UNIFAL-MG",
+  "cidade": "Alfenas, MG",
+  "periodo_atual": 4,
+  "data_base": "2026-10-20",
+  "legenda": {
+    "aprovada": "✅ Aprovada",
+    "dp": "🔴 DP",
+    "a_cursar": "📘 A cursar"
+  },
+  "disciplinas": [
+    {
+      "periodo": 1,
+      "disciplina": "Introdução à Ciência da Computação",
+      "codigo": "DCE524",
+      "carga_horaria": 60,
+      "status": "aprovada",
+      "repositorio": "https://github.com/DaniloFirme/ICC"
+    },
+    {
+      "periodo": 1,
+      "disciplina": "Geometria Analítica",
+      "codigo": "DCE555",
+      "carga_horaria": 60,
+      "status": "aprovada",
+      "repositorio": "https://github.com/DaniloFirme/GA"
+    },
+    {
+      "periodo": 1,
+      "disciplina": "Fundamentos Matemáticos para Ciência da Computação",
+      "codigo": "DCE842",
+      "carga_horaria": 60,
+      "status": "aprovada",
+      "repositorio": "https://github.com/DaniloFirme/Fundamentos_mat"
+    },
+    {
+      "periodo": 1,
+      "disciplina": "AEDs I - Teoria",
+      "codigo": "DCE796",
+      "carga_horaria": 60,
+      "status": "aprovada",
+      "repositorio": "https://github.com/DaniloFirme/AEDS_teorica"
+    },
+    {
+      "periodo": 1,
+      "disciplina": "Lógica Digital",
+      "codigo": "DCE119",
+      "carga_horaria": 60,
+      "status": "dp",
+      "repositorio": "https://github.com/DaniloFirme/Logica_digital"
+    },
+    {
+      "periodo": 1,
+      "disciplina": "AEDs I - Prática",
+      "codigo": "DCE794",
+      "carga_horaria": 60,
+      "status": "dp",
+      "repositorio": "https://github.com/DaniloFirme/AEDS_pratica"
+    },
+    {
+      "periodo": 2,
+      "disciplina": "AEDs II - Prática",
+      "codigo": "DCE792",
+      "carga_horaria": 60,
+      "status": "aprovada",
+      "repositorio": null
+    },
+    {
+      "periodo": 2,
+      "disciplina": "AEDs II - Teoria",
+      "codigo": "DCE791",
+      "carga_horaria": 60,
+      "status": "aprovada",
+      "repositorio": null
+    },
+    {
+      "periodo": 2,
+      "disciplina": "Engenharia de Software",
+      "codigo": "DCE527",
+      "carga_horaria": 60,
+      "status": "aprovada",
+      "repositorio": null
+    },
+    {
+      "periodo": 2,
+      "disciplina": "Álgebra Linear",
+      "codigo": "DCE67",
+      "carga_horaria": 60,
+      "status": "aprovada",
+      "repositorio": null
+    },
+    {
+      "periodo": 2,
+      "disciplina": "Cálculo I",
+      "codigo": "DCE557",
+      "carga_horaria": 60,
+      "status": "dp",
+      "repositorio": null
+    },
+    {
+      "periodo": 2,
+      "disciplina": "Arquitetura e Organização de Computadores",
+      "codigo": "DCE525",
+      "carga_horaria": 60,
+      "status": "dp",
+      "repositorio": null
+    },
+    {
+      "periodo": 3,
+      "disciplina": "AEDs III †",
+      "codigo": "DCE797",
+      "carga_horaria": 90,
+      "status": "aprovada",
+      "repositorio": null
+    },
+    {
+      "periodo": 3,
+      "disciplina": "Programação Lógica",
+      "codigo": "DCE672",
+      "carga_horaria": 30,
+      "status": "aprovada",
+      "repositorio": null
+    },
+    {
+      "periodo": 3,
+      "disciplina": "Orientação a Objetos",
+      "codigo": "DCE530",
+      "carga_horaria": 60,
+      "status": "aprovada",
+      "repositorio": "https://github.com/DaniloFirme/LojaPOO"
+    },
+    {
+      "periodo": 3,
+      "disciplina": "Matemática Discreta",
+      "codigo": "DCE121",
+      "carga_horaria": 60,
+      "status": "aprovada",
+      "repositorio": null
+    },
+    {
+      "periodo": 3,
+      "disciplina": "Programação Funcional",
+      "codigo": "DCE673",
+      "carga_horaria": 30,
+      "status": "dp",
+      "repositorio": null
+    },
+    {
+      "periodo": 3,
+      "disciplina": "Cálculo II",
+      "codigo": "DCE665",
+      "carga_horaria": 60,
+      "status": "dp",
+      "repositorio": null
+    },
+    {
+      "periodo": 4,
+      "disciplina": "Teoria de Linguagens e Compiladores",
+      "codigo": "DCE532",
+      "carga_horaria": 90,
+      "status": "dp",
+      "repositorio": null
+    },
+    {
+      "periodo": 4,
+      "disciplina": "Sistemas Operacionais",
+      "codigo": "DCE131",
+      "carga_horaria": 60,
+      "status": "dp",
+      "repositorio": null
+    },
+    {
+      "periodo": 4,
+      "disciplina": "Gestão do Ciclo de Vida da Aplicação",
+      "codigo": "DCE795",
+      "carga_horaria": 90,
+      "status": "dp",
+      "repositorio": null
+    },
+    {
+      "periodo": 4,
+      "disciplina": "Estatística Básica",
+      "codigo": "DCE21",
+      "carga_horaria": 60,
+      "status": "dp",
+      "repositorio": null
+    },
+    {
+      "periodo": 4,
+      "disciplina": "Computação Gráfica",
+      "codigo": "DCE533",
+      "carga_horaria": 60,
+      "status": "dp",
+      "repositorio": null
+    },
+    {
+      "periodo": 4,
+      "disciplina": "Banco de Dados",
+      "codigo": "DCE534",
+      "carga_horaria": 60,
+      "status": "dp",
+      "repositorio": null
+    },
+    {
+      "periodo": 5,
+      "disciplina": "Redes de Computadores",
+      "codigo": "DCE537",
+      "carga_horaria": 90,
+      "status": "a_cursar",
+      "repositorio": null
+    },
+    {
+      "periodo": 5,
+      "disciplina": "Processamento de Imagens",
+      "codigo": "DCE536",
+      "carga_horaria": 60,
+      "status": "a_cursar",
+      "repositorio": null
+    },
+    {
+      "periodo": 5,
+      "disciplina": "Inteligência Artificial",
+      "codigo": "DCE663",
+      "carga_horaria": 60,
+      "status": "a_cursar",
+      "repositorio": null
+    },
+    {
+      "periodo": 5,
+      "disciplina": "Empreendedores em Informática",
+      "codigo": "DCE675",
+      "carga_horaria": 30,
+      "status": "a_cursar",
+      "repositorio": null
+    },
+    {
+      "periodo": 5,
+      "disciplina": "Cálculo Numérico",
+      "codigo": "DCE91",
+      "carga_horaria": 60,
+      "status": "a_cursar",
+      "repositorio": null
+    },
+    {
+      "periodo": 6,
+      "disciplina": "Filosofia e Metodologia da Ciência",
+      "codigo": "DCH1474",
+      "carga_horaria": 30,
+      "status": "a_cursar",
+      "repositorio": null
+    },
+    {
+      "periodo": 6,
+      "disciplina": "Computação Paralela e Distribuída",
+      "codigo": "DCE540",
+      "carga_horaria": 90,
+      "status": "a_cursar",
+      "repositorio": null
+    },
+    {
+      "periodo": 7,
+      "disciplina": "Ética, Computador e Sociedade",
+      "codigo": "DCE676",
+      "carga_horaria": 30,
+      "status": "aprovada",
+      "repositorio": null
+    },
+    {
+      "periodo": 7,
+      "disciplina": "Trabalho de Conclusão de Curso I",
+      "codigo": "DCE677",
+      "carga_horaria": 30,
+      "status": "a_cursar",
+      "repositorio": null
+    },
+    {
+      "periodo": 8,
+      "disciplina": "Introdução à Economia",
+      "codigo": "DCE543",
+      "carga_horaria": 30,
+      "status": "aprovada",
+      "repositorio": null
+    },
+    {
+      "periodo": 8,
+      "disciplina": "Trabalho de Conclusão de Curso II",
+      "codigo": "DCE798",
+      "carga_horaria": 30,
+      "status": "a_cursar",
+      "repositorio": null
+    }
+  ],
+  "exigencias": [
+    {
+      "nome": "Disciplinas eletivas (carga horária)",
+      "cumprido_horas": 0,
+      "minimo_horas": 360,
+      "status": "pendente"
+    },
+    {
+      "nome": "Quantidade de disciplinas eletivas",
+      "cumprido": 0,
+      "minimo": 6,
+      "status": "pendente"
+    },
+    {
+      "nome": "Atividades complementares",
+      "cumprido_horas": 0,
+      "minimo_horas": 210,
+      "status": "pendente"
+    },
+    {
+      "nome": "ACEXs livres",
+      "cumprido_horas": 0,
+      "minimo_horas": 320,
+      "status": "pendente"
+    },
+    {
+      "nome": "Estágio Curricular Obrigatório",
+      "status": "pendente",
+      "observacao": "Corte da captura impede leitura completa da carga horária mínima"
+    }
+  ]
+}
